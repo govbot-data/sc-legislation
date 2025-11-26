@@ -1,4 +1,4 @@
-# 🏛️ sc legislation file tree
+# 🏛️ South Carolina legislation file tree
 
 Download a copy of your states legislation.
 
