@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 9-8-50, RELATING TO SERVICE CREDIT IN THE RETIREMENT SYSTEM FOR JUDGES AND SOLICITORS, SO AS TO PROVIDE THAT JUDGES ARE VESTED IN THE SYSTEM AFTER ATTAINING EIGHT YEARS OF EARNED SERVICE; AND BY AMENDING SECTION 9-8-60, RELATING TO THE RETIREMENT SYSTEM FOR JUDGES' AND SOLICITORS' ALLOWANCES, SO AS TO CHANGE THE RETIREMENT AGE OF JUDGES FROM SEVENTY-TWO TO SEVENTY-FOUR."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 9-8-50, RELATING TO SERVICE CREDIT IN THE RETIREMENT SYSTEM FOR JUDGES AND SOLICITORS, SO AS TO RESTATE THE SECTION; AND BY AMENDING SECTION 9-8-60, RELATING TO THE RETIREMENT SYSTEM FOR JUDGES' AND SOLICITORS' ALLOWANCES, SO AS TO CHANGE THE RETIREMENT AGE OF JUDGES FROM SEVENTY-TWO TO SEVENTY-FOUR. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -190,6 +190,49 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:27Z"
       }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-113  Nays-0",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
+    },
+    {
+      "description": "Ratified R 275",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,7 +363,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:27Z",
+    "logs_latest_update": "2026-08-12T06:19:29Z",
     "text_extraction_latest_update": "2026-07-22T01:29:42.903694Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO MAKE APPROPRIATIONS AND TO PROVIDE REVENUES TO MEET THE ORDINARY EXPENSES OF STATE GOVERNMENT FOR THE FISCAL YEAR BEGINNING JULY 1, 2026, TO REGULATE THE EXPENDITURE OF SUCH FUNDS, AND TO FURTHER PROVIDE FOR THE OPERATION OF STATE GOVERNMENT DURING THIS FISCAL YEAR AND FOR OTHER PURPOSES."
+      "abstract": "AN ACT TO MAKE APPROPRIATIONS AND TO PROVIDE REVENUES TO MEET THE ORDINARY EXPENSES OF STATE GOVERNMENT FOR THE FISCAL YEAR BEGINNING JULY 1, 2026, TO REGULATE THE EXPENDITURE OF SUCH FUNDS, AND TO FURTHER PROVIDE FOR THE OPERATION OF STATE GOVERNMENT DURING THIS FISCAL YEAR AND FOR OTHER PURPOSES. - ratified title"
     }
   ],
   "other_titles": [],
@@ -301,6 +301,36 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:24Z"
       }
+    },
+    {
+      "description": "Conference report received and adopted",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-100  Nays-17",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
+    },
+    {
+      "description": "Ratified R 276",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:19:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,7 +361,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:24Z",
+    "logs_latest_update": "2026-08-12T06:19:29Z",
     "text_extraction_latest_update": "2026-08-11T12:38:58.673248Z"
   }
 }
