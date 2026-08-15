@@ -233,6 +233,38 @@
       "_processing": {
         "log_file_created": "2026-08-12T06:19:29Z"
       }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T05:15:53Z"
+      }
+    },
+    {
+      "description": "Effective date See Act for Effective Date",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T05:15:53Z"
+      }
+    },
+    {
+      "description": "Act No. 258",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T05:15:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -363,7 +395,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T06:19:29Z",
+    "logs_latest_update": "2026-08-15T05:15:53Z",
     "text_extraction_latest_update": "2026-08-12T06:21:53.378388Z"
   }
 }
