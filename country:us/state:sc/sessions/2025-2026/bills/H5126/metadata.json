@@ -351,6 +351,18 @@
       "_processing": {
         "log_file_created": "2026-08-12T06:19:29Z"
       }
+    },
+    {
+      "description": "Certain items vetoed by Governor",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-veto-line-item"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:22:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,7 +393,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-13T06:23:46Z",
+    "logs_latest_update": "2026-08-18T05:22:22Z",
     "text_extraction_latest_update": "2026-08-17T12:20:45.394643Z"
   }
 }
