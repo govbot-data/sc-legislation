@@ -169,6 +169,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Act No. 269",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T05:23:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -259,7 +269,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:21Z",
+    "logs_latest_update": "2026-08-20T05:23:10Z",
     "text_extraction_latest_update": "2026-07-22T02:00:04.180494Z"
   }
 }
