@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "H 3305",
-  "title": "SC Public Expression Protection Act",
+  "title": "Supplemental Appropriations",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -188,6 +188,61 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:24Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:29:42Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:29:42Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-xxx  Nays-xxx",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:29:42Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:29:42Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-96  Nays-15",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:29:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -258,6 +313,17 @@
       "classification": ""
     },
     {
+      "note": "08/25/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20260825.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -289,7 +355,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:27Z",
+    "logs_latest_update": "2026-08-26T05:29:42Z",
     "text_extraction_latest_update": "2026-07-22T02:03:49.831185Z"
   }
 }
