@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 7 TO CHAPTER 3, TITLE 15 SO AS TO ESTABLISH THE \"SOUTH CAROLINA PUBLIC EXPRESSION PROTECTION ACT,\" REGARDING A CAUSE OF ACTION ASSERTED IN A CIVIL ACTION BASED UPON A PERSON'S COMMUNICATION IN CERTAIN CIRCUMSTANCES, AND TO ESTABLISH REQUIREMENTS FOR THESE PROCEEDINGS."
+      "abstract": "AN ACT TO MAKE SUPPLEMENTAL APPROPRIATIONS FOR FISCAL YEAR 2026-2027. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -243,6 +243,16 @@
       "_processing": {
         "log_file_created": "2026-08-26T05:29:42Z"
       }
+    },
+    {
+      "description": "Ratified R 277",
+      "date": "2026-08-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:53:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -258,7 +268,7 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "12/05/2024",
+      "note": "12/5/2024",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20241205.htm",
@@ -269,7 +279,7 @@
       "classification": ""
     },
     {
-      "note": "03/20/2025",
+      "note": "3/20/2025",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20250320.htm",
@@ -280,7 +290,7 @@
       "classification": ""
     },
     {
-      "note": "03/25/2025",
+      "note": "3/25/2025",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20250325.htm",
@@ -291,7 +301,7 @@
       "classification": ""
     },
     {
-      "note": "04/29/2025",
+      "note": "4/29/2025",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20250429.htm",
@@ -302,7 +312,7 @@
       "classification": ""
     },
     {
-      "note": "05/01/2025",
+      "note": "5/1/2025",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20250501.htm",
@@ -313,7 +323,7 @@
       "classification": ""
     },
     {
-      "note": "08/25/2026",
+      "note": "8/25/2026",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3305_20260825.htm",
@@ -355,7 +365,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T05:29:42Z",
+    "logs_latest_update": "2026-08-27T15:53:30Z",
     "text_extraction_latest_update": "2026-08-26T05:31:08.504158Z"
   }
 }
